@@ -11,6 +11,8 @@ El resultado final es el siguiente.
 
 ![image](https://user-images.githubusercontent.com/22418357/160686782-e220c908-8a60-460d-b594-2941c876c21c.png)
 
+El numerador desde  y hasta donde  indican el rango de filas de la base de Datos donde se va a iterar.
+
 En la carpeta del proyecto tuve que agregar la libreria OpenXLS para que funcionara.
 
 ![image](https://user-images.githubusercontent.com/22418357/160687707-8a836251-0e78-4845-bd5e-7e7f9d17fab0.png)
